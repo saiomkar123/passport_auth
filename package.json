@@ -1,0 +1,25 @@
+{
+  "name": "passport_auth",
+  "version": "1.0.0",
+  "description": "saas description..",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "omkar",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.2",
+    "morgan": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
